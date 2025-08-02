@@ -25,20 +25,15 @@ class Program
 
             leftSide.Add(int.Parse(divided[i]));
         }
-        
         for (int i = 0; i < leftSide.Count; i++)
         {
             List<int> counter = rightSide.FindAll(x => x == leftSide[i]);
             result.Add(leftSide[i] * counter.Count);
         }
-
         foreach (var item in result)
         {
             answer += item;
         }
-        
-
-
         Console.WriteLine(answer);
         Console.ReadLine();
     }

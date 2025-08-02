@@ -9,7 +9,6 @@ class Program
         List<int> result = new List<int>();
         int answer = 0;
         string path = @"../../../Data/input.txt";
-        Console.WriteLine(path);
         string content = File.ReadAllText(path);
         content = content.Trim();
         content = content.Replace("\n", "   ");

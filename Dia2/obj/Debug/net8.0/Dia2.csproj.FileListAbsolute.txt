@@ -1,0 +1,15 @@
+/home/mtheus/RiderProjects/ConsoleApp1/Dia2/bin/Debug/net8.0/Dia2
+/home/mtheus/RiderProjects/ConsoleApp1/Dia2/bin/Debug/net8.0/Dia2.deps.json
+/home/mtheus/RiderProjects/ConsoleApp1/Dia2/bin/Debug/net8.0/Dia2.runtimeconfig.json
+/home/mtheus/RiderProjects/ConsoleApp1/Dia2/bin/Debug/net8.0/Dia2.dll
+/home/mtheus/RiderProjects/ConsoleApp1/Dia2/bin/Debug/net8.0/Dia2.pdb
+/home/mtheus/RiderProjects/ConsoleApp1/Dia2/obj/Debug/net8.0/Dia2.GeneratedMSBuildEditorConfig.editorconfig
+/home/mtheus/RiderProjects/ConsoleApp1/Dia2/obj/Debug/net8.0/Dia2.AssemblyInfoInputs.cache
+/home/mtheus/RiderProjects/ConsoleApp1/Dia2/obj/Debug/net8.0/Dia2.AssemblyInfo.cs
+/home/mtheus/RiderProjects/ConsoleApp1/Dia2/obj/Debug/net8.0/Dia2.csproj.CoreCompileInputs.cache
+/home/mtheus/RiderProjects/ConsoleApp1/Dia2/obj/Debug/net8.0/Dia2.sourcelink.json
+/home/mtheus/RiderProjects/ConsoleApp1/Dia2/obj/Debug/net8.0/Dia2.dll
+/home/mtheus/RiderProjects/ConsoleApp1/Dia2/obj/Debug/net8.0/refint/Dia2.dll
+/home/mtheus/RiderProjects/ConsoleApp1/Dia2/obj/Debug/net8.0/Dia2.pdb
+/home/mtheus/RiderProjects/ConsoleApp1/Dia2/obj/Debug/net8.0/Dia2.genruntimeconfig.cache
+/home/mtheus/RiderProjects/ConsoleApp1/Dia2/obj/Debug/net8.0/ref/Dia2.dll

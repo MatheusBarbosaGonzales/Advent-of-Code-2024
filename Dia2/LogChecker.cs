@@ -7,6 +7,7 @@ public class LogChecker
     {
         bool subindo = false;
         bool descendo = false;
+        bool levelRemoved = false;
         for (int j = 1; j < numberOnLine.Count; j++)
         {
             int previusNumber = numberOnLine[j - 1];
@@ -14,6 +15,11 @@ public class LogChecker
             
             if (previusNumber == currentNumber)
             {
+                if (!levelRemoved)
+                { 
+                    numberOnLine.Remove(j); 
+                    levelRemoved = true;
+                }
                 return false;
             }
 
@@ -34,15 +40,26 @@ public class LogChecker
             
             if (descendo  && previusNumber-3 > currentNumber)
             {
+                if (!levelRemoved)
+                { 
+                    numberOnLine.Remove(j); 
+                    levelRemoved = true;
+                    continue;
+                }
                 return false;
             }
             
             if (subindo  && currentNumber > previusNumber+3)
             {
+                if (!levelRemoved)
+                { 
+                    numberOnLine.Remove(j); 
+                    levelRemoved = true;
+                    continue;
+                }
                 return false;
             }
         }
         return true;
-        
     }
 }
